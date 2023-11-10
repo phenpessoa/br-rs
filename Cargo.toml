@@ -2,5 +2,7 @@
 name = "brdocs"
 version = "0.1.0"
 edition = "2021"
+description = "Library used to validate, parse and format brazilian documents."
+license = "MIT"
 
 [dependencies]
